@@ -1,3 +1,15 @@
-* {
-    color: red;
+img {
+    width: 30%;
+    display: block;
+    margin: 100px auto;
+    border-radius: 50%;
+    border: 10px solid white;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+body {
+    background-color: black;
 }
